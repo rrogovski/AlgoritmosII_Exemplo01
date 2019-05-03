@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556847548 source:f:\faculdade\si\iii sem\algoritmos ii\c++\aulas\crud01\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<Windows.h>
+	<conio.h>
+
